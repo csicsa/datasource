@@ -1,3 +1,3 @@
 [{
-  "label": "<H><script>alert('hello)</script></test"
+  "label": "&lt<H><script>alert('hello)</script></test"
 }]
